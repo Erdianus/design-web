@@ -39,7 +39,6 @@ body{
     padding: 15px;
     text-decoration: none;
     color: white;
-    display: block;
     font-size: 20px;
     font-family: sans-serif;
 }
@@ -50,7 +49,7 @@ body{
     background-color: black;
     margin: 0px;
     padding: 0px;
-    position: absolute;
+    display: none;
 }
 
 /*.....FOOTER.....*/
